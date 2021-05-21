@@ -45,7 +45,8 @@ data:extend({util.merge{
       
       fluid_box =
       {
-        base_area = 1,
+        base_area = 0.1,
+        height = 10,
         pipe_connections =
         {
           { position = {-0.5, -1.5}, type="output", max_underground_distance = 10 },

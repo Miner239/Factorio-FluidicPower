@@ -37,9 +37,9 @@ table.insert(
     }
 )
 
-fluidic_utils.overwrite_technology_for_recipe(
-    "accumulator", "fluidic-accumulator"
-)
+-- fluidic_utils.overwrite_technology_for_recipe(
+--     "accumulator", "fluidic-accumulator"
+-- )
 fluidic_utils.overwrite_technology_for_recipe(
     "power-switch", "fluidic-power-switch"
 )
